@@ -11,5 +11,5 @@ En un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de 
 
 - [ENLACE](http://www.youtube.com/watch?v=RECvoNMPjnc)
 
-![imagen](https://www.google.com.ar/search?q=teorema+de+pitagoras&biw=1024&bih=499&source=lnms&tbm=isch&sa=X&ei=_NhXVJHEM8jcoAS1nYB4&ved=0CAYQ_AUoAQ#facrc=_&imgdii=_&imgrc=ek4jzQJbvXrnoM%253A%3BrmP3dLE1TpinuM%3Bhttp%253A%252F%252Fplanetapi314.files.wordpress.com%252F2012%252F11%252Fteorema-de-pitagoras-planetapi.png%3Bhttp%253A%252F%252Fplanetapi.es%252Ftag%252Fteorema-de-pitagoras%252F%3B1596%3B592 "teorema de pitagoras")
+![IMAGEN](https://www.google.com.ar/search?q=teorema+de+pitagoras&biw=1024&bih=499&source=lnms&tbm=isch&sa=X&ei=_NhXVJHEM8jcoAS1nYB4&ved=0CAYQ_AUoAQ#facrc=_&imgdii=ek4jzQJbvXrnoM%3A%3BrHTJvVhSKdoVQM%3Bek4jzQJbvXrnoM%3A&imgrc=ek4jzQJbvXrnoM%253A%3BrmP3dLE1TpinuM%3Bhttp%253A%252F%252Fplanetapi314.files.wordpress.com%252F2012%2592F11%252Fteorema-de-pitagoras-planetapi.png%3Bhttp%253A%252F%252Fplanetapi.es%252Ftag%252Fteorema-de-pitagoras%252F%3B1596%3B592 "teorema de pitagoras")
 
