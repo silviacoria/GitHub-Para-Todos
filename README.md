@@ -4,16 +4,12 @@ En un triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de 
 
 > Si el triángulo tiene un ángulo recto (90°)...
 
-... y pones un cuadrado sobre cada uno de sus lados, entonces...
+>... y pones un cuadrado sobre cada uno de sus lados, entonces...
 
-... ¡el cuadrado más grande tiene exactamente la misma área que los otros dos cuadrados juntos!
+>... ¡el cuadrado más grande tiene exactamente la misma área que los otros dos cuadrados juntos!
 
-Existen tres tipos de contenidos:
 
-- Conceptuales
-- Procedimentales
-- Actitudinales
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+- [ENLACE](http://www.youtube.com/watch?v=RECvoNMPjnc)
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![imagen](https://www.google.com.ar/search?q=teorema+de+pitagoras&biw=1024&bih=499&source=lnms&tbm=isch&sa=X&ei=j9dXVLzLLsHvmAW5iIGoDw&sqi=2&ved=0CAYQ_AUoAQ#facrc=_&imgdii=_&imgrc=bnlBXsdnW-uyqM%253A%3BhzRvfupCKxEoGM%3Bhttp%253A%252F%252Fimg36.imageshack.us%252Fimg36%252F6155%252Ftriangulo1.png%3Bhttps%253A%252F%252Fmatesporuntubo.wikispaces.com%252FTeorema%252Bde%252BPit%2525C3%2525A1goras%3B267%3B318 "teorema de pitagoras")
 
